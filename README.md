@@ -82,6 +82,22 @@ I'm a Minneapolis-based software developer currently working as a senior softwar
   </details>
   
   <details>
+    <summary>Telemetry</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/newrelic">
+            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/pagerduty">
+            <img src="https://avatars.githubusercontent.com/u/766800?s=20&v=4" /> PagerDuty
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
     <summary>Integrations</summary>
       <ul>
         <li>
@@ -183,6 +199,27 @@ I'm a Minneapolis-based software developer currently working as a senior softwar
         <li>
           <a href="https://github.com/atlassian">
             <img src="https://avatars.githubusercontent.com/u/168166?s=20&v=4" /> Bamboo
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>Telemetry</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/newrelic">
+            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/victorops">
+            <img src="https://avatars.githubusercontent.com/u/3174283?s=20&v=4" /> VictorOps
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/sumologic">
+            <img src="https://avatars.githubusercontent.com/u/963817?s=20&v=4" /> SumoLogic
           </a>
         </li>
       </ul>
@@ -322,11 +359,32 @@ I'm a Minneapolis-based software developer currently working as a senior softwar
   </details>
   
   <details>
+    <summary>Telemetry</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/newrelic">
+            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/pagerduty">
+            <img src="https://avatars.githubusercontent.com/u/766800?s=20&v=4" /> PagerDuty
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/papertrail">
+            <img src="https://avatars.githubusercontent.com/u/481428?s=20&v=4" /> Papertrail
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
     <summary>Integrations</summary>
       <ul>
         <li>
           <a href="https://github.com/shopify">
-            <img src="https://avatars.githubusercontent.com/u/8085?s=20&v=4" /> shopify
+            <img src="https://avatars.githubusercontent.com/u/8085?s=20&v=4" /> Shopify
           </a>
         </li>
         <li>
@@ -408,6 +466,22 @@ I'm a Minneapolis-based software developer currently working as a senior softwar
         <li>
           <a href="https://github.com/travis-ci">
             <img src="https://avatars.githubusercontent.com/u/639823?s=20&v=4" /> TravisCI
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>Telemetry</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/newrelic">
+            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/papertrail">
+            <img src="https://avatars.githubusercontent.com/u/481428?s=20&v=4" /> Papertrail
           </a>
         </li>
       </ul>
