@@ -3,9 +3,141 @@
 Software I've written:
 <img src="https://komarev.com/ghpvc/?username=dbelling" alt="dbelling" /> [![Keybase](https://badgen.net/badge/icon/keybase?icon=keybase&label)](https://keybase.io/dbelling) [![DockerHub](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/u/danbelling) [![NPM](https://badgen.net/badge/icon/npm?icon=npm&label)](https://www.npmjs.com/~danbelling) [![RubyGems](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://rubygems.org/profiles/danbelling)
 
-I'm a Minneapolis-based software developer currently working as a senior software engineer at [Total Expert](https://totalexpert.com/).
+I'm a Minneapolis-based software developer currently working as a ruby on rails engineer at [For Us All](https://www.forusall.com/).
 
 ## Where I've Been
+
+### 2021: [![Total Expert Logo](https://avatars.githubusercontent.com/u/37597892?s=20&v=4)](https://github.com/totalexpert) [Total Expert](https://www.totalexpert.com) - Senior Software Engineer
+
+<details>
+  <summary>Summary</summary>
+  As part of the Campaign Management team, I supported feature development efforts for Total Expert's Journey VueJS canvas as well as improvements to the platform's automated print campaigns. Our team also improved reporting capabilities for Journey metrics with some enhanced lead capture modeling.
+  
+  <details>
+    <summary>Tech Stack</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/php">
+            <img src="https://avatars.githubusercontent.com/u/25158?s=20&v=4" /> PHP
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/laravel">
+            <img src="https://avatars.githubusercontent.com/u/958072?s=20&v=4" /> Laravel
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/nodejs">
+            <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> NodeJS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/vuejs">
+            <img src="https://avatars.githubusercontent.com/u/6128107?s=20&v=4" /> VueJS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/mariadb">
+            <img src="https://avatars.githubusercontent.com/u/4739304?s=20&v=4" /> MariaDB
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/redis">
+            <img src="https://avatars.githubusercontent.com/u/1529926?s=20&v=4" /> Redis
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/elastic">
+            <img src="https://avatars.githubusercontent.com/u/6764390?s=20&v=4" /> ElasticSearch
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>Platform</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/docker">
+            <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/hashicorp">
+            <img src="https://avatars.githubusercontent.com/u/761456?s=20&v=4" /> Vagrant
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/aws">
+            <img src="https://avatars.githubusercontent.com/u/2232217?s=20&v=4" /> AWS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/atlassian">
+            <img src="https://avatars.githubusercontent.com/u/168166?s=20&v=4" /> Bamboo
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>Telemetry</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/datadog">
+            <img src="https://avatars.githubusercontent.com/u/365230?s=20&v=4" /> DataDog
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/Graylog2">
+            <img src="https://avatars.githubusercontent.com/u/474892?s=20&v=4" /> GrayLog
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>Integrations</summary>
+      <ul>
+        <li>
+          <a href="https://github.com/twilio">
+            <img src="https://avatars.githubusercontent.com/u/109142?s=20&v=4" /> Twilio
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/salesforce">
+            <img src="https://avatars.githubusercontent.com/u/453694?s=20&v=4" /> Salesforce
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/stripe">
+            <img src="https://avatars.githubusercontent.com/u/856813?s=20&v=4" /> Stripe
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/zillow">
+            <img src="https://avatars.githubusercontent.com/u/476233?s=20&v=4" /> Zillow
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/facebook">
+            <img src="https://avatars.githubusercontent.com/u/69631?s=20&v=4" /> Facebook
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/twitter">
+            <img src="https://avatars.githubusercontent.com/u/50278?s=20&v=4" /> Twitter
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/hubspot">
+            <img src="https://avatars.githubusercontent.com/u/326419?s=20&v=4" /> HubSpot
+          </a>
+        </li>
+      </ul>
+  </details>
+  
+</details>
 
 ### 2020-2021: [![Flipgrid Logo](https://avatars.githubusercontent.com/u/27718000?s=20&v=4)](https://github.com/flipgrid) [Flipgrid](https://info.flipgrid.com/) @ [![Microsoft Logo](https://avatars.githubusercontent.com/u/6154722?s=20&v=4)](https://github.com/microsoft) [Microsoft](https://www.microsoft.com/en-us/) - **Platform Analytics Engineer** 
 
