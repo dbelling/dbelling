@@ -3,12 +3,168 @@
 Software I've written:
 <img src="https://komarev.com/ghpvc/?username=dbelling" alt="dbelling" /> [![Keybase](https://badgen.net/badge/icon/keybase?icon=keybase&label)](https://keybase.io/dbelling) [![DockerHub](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/u/danbelling) [![NPM](https://badgen.net/badge/icon/npm?icon=npm&label)](https://www.npmjs.com/~danbelling) [![RubyGems](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://rubygems.org/profiles/danbelling)
 
-I'm a Minneapolis-based software developer currently working as a ruby on rails engineer at [For Us All](https://www.forusall.com/).
+I'm a [Minneapolis-based software developer](https://voyageminnesota.com/interview/rising-stars-meet-dan-belling-of-saint-louis-park/).
 
 ## About Me
 
 <details>
   <summary>Where I've Been</summary>
+  
+  ### 2021-2022: [![ForUsAll Logo](https://avatars.githubusercontent.com/u/2591436?s=20&v=4)](https://github.com/forus-coop) [ForUsAll](https://www.forusall.com) - Ruby on Rails Engineer
+  <details>
+    <summary>Summary</summary>
+      Feature development on ForUsAll's Coinbase integration to bring cryptocurrency investment within the 401(k) through a suite of HCM integrations.
+     <details>
+      <summary>Tech Stack</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/ruby">
+              <img src="https://avatars.githubusercontent.com/u/210414?s=20&v=4" /> Ruby
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/rails">
+              <img src="https://avatars.githubusercontent.com/u/4223?s=20&v=4" /> Rails
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/postgres">
+              <img src="https://avatars.githubusercontent.com/u/177543?s=20&v=4" /> PostgreSQL
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/awslabs">
+              <img src="https://avatars.githubusercontent.com/u/3299148?s=20&v=4" /> QLDB
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/reactjs">
+              <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/nodejs">
+              <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> NodeJS
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/boltops-tools/jets">
+              <img src="https://avatars.githubusercontent.com/u/64508426?s=20&v=4" /> Jets
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/serverless/serverless">
+              <img src="https://avatars.githubusercontent.com/u/13742415?s=20&v=4" /> Serverless
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Platform</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/docker">
+              <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/kubernetes">
+              <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/aws">
+              <img src="https://avatars.githubusercontent.com/u/2232217?s=20&v=4" /> AWS
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/loft-sh/devspace">
+              <img src="https://avatars.githubusercontent.com/u/65466868?s=20&v=4" /> DevSpace
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/jenkinsci">
+              <img src="https://avatars.githubusercontent.com/u/107424?s=20&v=4" /> Jenkins
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Telemetry</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/logdna">
+              <img src="https://avatars.githubusercontent.com/u/17461937?s=20&v=4" /> LogDNA
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/rollbar">
+              <img src="https://avatars.githubusercontent.com/u/3219584?s=20&v=4" /> Rollbar
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Integrations</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/zenefits">
+              <img src="https://avatars.githubusercontent.com/u/9489806?s=20&v=4" /> Zenefits
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/Gusto">
+              <img src="https://avatars.githubusercontent.com/u/3697270?s=20&v=4" /> Gusto
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/open-toast">
+              <img src="https://avatars.githubusercontent.com/u/60184273?s=20&v=4" /> Toast
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/Rippling">
+              <img src="https://avatars.githubusercontent.com/u/19614805?s=20&v=4" /> Rippling
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/adplabs">
+              <img src="https://avatars.githubusercontent.com/u/7968474?s=20&v=4" /> ADP
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/namely">
+              <img src="https://avatars.githubusercontent.com/u/1004321?s=20&v=4" /> Namely
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/justworkshr">
+              <img src="https://avatars.githubusercontent.com/u/11684021?s=20&v=4" /> JustWorks
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/paychex">
+              <img src="https://avatars.githubusercontent.com/u/10341933?s=20&v=4" /> Paychex
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/Paylocity">
+              <img src="https://avatars.githubusercontent.com/u/3986854?s=20&v=4" /> Paylocity
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/isolvedhcm">
+              <img src="https://avatars.githubusercontent.com/u/65429013?s=20&v=4" /> iSolved
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/coinbase">
+              <img src="https://avatars.githubusercontent.com/u/1885080?s=20&v=4" /> Coinbase
+            </a>
+          </li>
+        </ul>
+    </details>
+  </details>
   
   ### 2022: [![Science Museum of Minnesota Logo](https://avatars.githubusercontent.com/u/777830?s=20&v=4)](https://github.com/scimusmn) [Science Museum of Minnesota](https://new.smm.org/) @ [![SFG Logo](https://avatars.githubusercontent.com/u/1075558?s=20&v=4)](https://github.com/softwareforgood) [Software for Good](https://softwareforgood.com/) - Software Apprentice Mentor
   <details>
