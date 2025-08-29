@@ -9,6 +9,82 @@ I'm a [Minneapolis-based software developer](https://voyageminnesota.com/intervi
 
 <details>
   <summary>Where I've Been</summary>
+
+  ### 2023-2025: [![M-RETS Logo](https://avatars.githubusercontent.com/u/37344854?s=20&v=4)](https://github.com/mrets) [CleanCounts](https://www.mrets.org) - Senior Software Engineer
+  <details>
+    <summary>Summary</summary>
+      Developed support for a multi-tenant renewable energy certificate registry for M-RETS (US central region) and WREGIS (pacific region) to track both RECs (Renewable Energy Certificates) and RTCs (Renewable Thermal Certificates). Prototyped implementation for granular certificate tracking to allow hourly energy profiles in addition to monthly (legacy) vintage profiles.
+     <details>
+      <summary>Tech Stack</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/ruby">
+              <img src="https://avatars.githubusercontent.com/u/210414?s=20&v=4" /> Ruby
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/rails">
+              <img src="https://avatars.githubusercontent.com/u/4223?s=20&v=4" /> Rails
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/postgres">
+              <img src="https://avatars.githubusercontent.com/u/177543?s=20&v=4" /> PostgreSQL
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/reactjs">
+              <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Platform</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/docker">
+              <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/kubernetes">
+              <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/aws">
+              <img src="https://avatars.githubusercontent.com/u/2232217?s=20&v=4" /> AWS
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Telemetry</summary>
+        <ul>
+          <li>
+          <a href="https://github.com/newrelic">
+            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          </a>
+        </li>
+          <li>
+            <a href="https://github.com/rollbar">
+              <img src="https://avatars.githubusercontent.com/u/3219584?s=20&v=4" /> Rollbar
+            </a>
+          </li>
+        </ul>
+    </details>
+    <details>
+      <summary>Integrations</summary>
+        <ul>
+          <li>
+            <a href="https://github.com/Future-Energy-Associates">
+              <img src="https://avatars.githubusercontent.com/u/63813001?s=20&v=4" /> Future Energy Associates
+            </a>
+          </li>
+        </ul>
+    </details>
+  </details>
   
   ### 2021-2022: [![ForUsAll Logo](https://avatars.githubusercontent.com/u/2591436?s=20&v=4)](https://github.com/forus-coop) [ForUsAll](https://www.forusall.com) - Ruby on Rails Engineer
   <details>
